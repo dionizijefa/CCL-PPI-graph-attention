@@ -1,5 +1,6 @@
 # Cancer cell line drug response modeling based on multimodal attention networks
-Multimodal attention model for modeling drug response based on PPI interactions in cancer cell lines<br/>
+Multimodal attention model for modeling drug response based on PPI interactions in cancer cell lines.<br/>
+This work has been accepted at ISMB/ECCB 2021 - Representation learning in biology special session on account of the abstract and the poster. The preprint contains the further developed work. https://representation.learning.bio/schedule
 
 # Requriements
 pytorch==1.8.0 <br/>
